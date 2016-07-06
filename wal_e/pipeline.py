@@ -9,7 +9,7 @@ from wal_e.exception import UserCritical
 from wal_e.piper import popen_sp, PIPE
 
 PV_BIN = 'pv'
-GPG_BIN = 'gpg'
+GPG_BIN = 'gpg2'
 LZOP_BIN = 'lzop'
 CAT_BIN = 'cat'
 
